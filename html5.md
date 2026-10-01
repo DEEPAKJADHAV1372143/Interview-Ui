@@ -1,6 +1,3 @@
-Here’s a **complete set of 40 HTML & HTML5 interview questions with clear answers**, organized by category so you can revise systematically.  
-
----
 
 ## 🔹 Core Basics
 1. **What is HTML?**  
@@ -146,6 +143,3 @@ Here’s a **complete set of 40 HTML & HTML5 interview questions with clear answ
 
 ---
 
-✅ That’s a **complete 40-question set** covering **HTML & HTML5 basics, forms, multimedia, APIs, performance, security, and advanced concepts**.  
-
-Deepak, since you’re preparing for interviews, would you like me to **turn this into a rapid-fire quiz format** so you can practice answering under time pressure, like in a real interview setting?
